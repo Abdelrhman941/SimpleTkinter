@@ -45,8 +45,4 @@ We’d love your help! If you made a cool Tkinter app, you can add it here. To c
 
 ---
 
-## 📜 License
-This repo uses the **MIT License**, which means you can use, change, and share the code as long as you give credit.
-
----
-Have fun coding! 🚀🎨
+Comming 🔜 
